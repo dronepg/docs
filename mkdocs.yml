@@ -9,14 +9,14 @@ markdown_extensions:
 nav:
   - 'levees.md'
   - 'Teoria':
-    - 'dem/nmt.md'
-    - 'dem/lidar.md'
-    - 'dem/photogrammetry.md'
-    - 'dem/comparasion.md'
-    - 'dem/yellowscan.md'
-    - 'dem/applanix.md'      
+        - 'dem/nmt.md'
+        - 'dem/lidar.md'
+        - 'dem/photogrammetry.md'
+	- 'dem/comparasion.md'
+	- 'dem/yellowscan.md'
+	- 'dem/applanix.md'      
   - SAFEDAM:
-    - Projekt: 'safedam/safedam.md'
-    - 'safedam/neo3.md'
-    - 'safedam/zawisak.md'
+	- Projekt: 'safedam/safedam.md'
+	- 'safedam/neo3.md'
+	- 'safedam/zawisak.md'
   - 'questions.md'

@@ -1,6 +1,6 @@
 # Wały Przeciwpowodziowe
 
-Jak wygląda wał itp...
+![struktura](levee_structure.png)
 
 
 
