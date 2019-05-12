@@ -1,6 +1,6 @@
 # Wały Przeciwpowodziowe
 
-![struktura](levee_structure.png)
+![struktura](levee.jpg)
 
 
 
