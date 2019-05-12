@@ -21,6 +21,6 @@ Prędkości:kość lotu: 5 m/s
 Wyposażenie celowe:
 
 - stabilizowana głowica obserwacyjna
-- głowica fotogrametryczna [RGB Sony a6000](https://www.dxomark.com/Cameras/Sony/A6000---Specifications)
-- głowica skanująca (LIDAR) [Yellowscan Surveyor](https://www.yellowscan-lidar.com/products/yellowscan-surveyor) (możliwa zamiana na [Riegl miniVUX](http://www.riegl.com/products/unmanned-scanning/riegl-minivux-1uav/))
+- głowica fotogrametryczna [RGB Sony a6000](https://www.dxomark.com/Cameras/Sony/A6000---Specifications) rozdzielczość 2cm powierzchni ziemi.
+- głowica skanująca (LIDAR) [Yellowscan Surveyor](https://www.yellowscan-lidar.com/products/yellowscan-surveyor) (możliwa zamiana na [Riegl miniVUX](http://www.riegl.com/products/unmanned-scanning/riegl-minivux-1uav/)) 180 próbek / m^2. 
 

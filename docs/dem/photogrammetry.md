@@ -4,6 +4,10 @@ Wiki: dziedzina nauki i techniki zajmująca się odtwarzaniem kształtów, rozmi
 
 Praktycznym zastosowaniem fotogrametrii jest jej wykorzystanie jako źródła podczas tworzenia map. W geodezji służy jako pomoc przy pomiarach dużych obszarów i odległości. Jest też jedną z metod wyznaczania wysokości obiektów.
 
+Technika która pozwala na modelowanie terenu z wykorzystaniem zdjęć, nazywa się Dense Image Matching (DIM).
+Zaletą fotogrametrii jest jej niska cena, oraz wysoką dokładność w modelowaniu DSM (poniżej 10cm) nawet z wykorzystaniem kompaktowych kamer.
+Największa wadą fotogrametrii jest duża podatność na wpływ roślinności, skutkuje to dużym błędem w pionowej dokładność wynikowego modelu struktury ziemi (DTM).
+Z tego powodu fotogrametria może być dobrym wyborem przy skanowaniu wałów przeciwpowodziowych, w okresie, gdy roślinność jest niska.
 ## Software
 
 

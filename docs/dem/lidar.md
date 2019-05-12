@@ -1,4 +1,5 @@
 # LiDAR
+Dane zebrane przez LiDAR charakteryzują się niższym wpływem na dokładność wyników spowodowanym roślinnością, nawet przy modelowaniu DTM.
 
 ## Jak działa
 
