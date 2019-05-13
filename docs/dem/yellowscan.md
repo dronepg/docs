@@ -1,10 +1,10 @@
-# YellowScan Surveyor
+# YellowScan
+Jedna z wielu firm dostarczająca produkty do skanowania laserowego. Niewątpliwą zaletą jest to, że ich produkty są gotowymi układami integrującymi: skaner laserowy, nawijację i orientację GNSS/IMU, układem scalonym przetwarzający dane, baterię i oprogramowanie.
+## YellowScan Surveyor
 
 [YellowScan Surveyor](https://www.yellowscan-lidar.com/products/yellowscan-surveyor) to zintegrowane rozwiązane, praktycznie gotowe do użytku, przeznaczony do zastosowań UAV. Łączy w sobie skaner laserowy LiDAR, układ scalony zapewniający georeferencje zebranych punktów oraz baterię zapewniającą 1.5h czasu pracy. Urządzenie używane przez SAFEDAM.
 
-
-
-## Specyfikacja
+### Specyfikacja
 
 - Skaner: [Velodyne VLP-16](https://velodynelidar.com/vlp-16.html)
 - GNSS-Inerial: [Applanix APX15](https://www.applanix.com/products/dg-uavs.htm)
@@ -21,7 +21,7 @@
 - Temperatura pracy: -20 do +50°C
 - Rozmiar: L 16 x W 10.5 x H 14cm
 
-## W zestawie
+### W zestawie
 
 - Walizka a w niej
 
@@ -52,10 +52,13 @@
   - YellowScan LiveStation, zestaw monitorowania w czasie rzeczywistym (oprogramowanie i 2 modemy radiowe)
   - Rozszerzenie gwarancji i wsparia technicznego
 
-### Typowe warunki pracy
+#### Typowe warunki pracy
 
   ![Typical Mission](yellowscan_typical_mission.png)
 
-### Budowa
+#### Budowa
 
 ![Budowa](budowa.png)
+
+## YellowScan Surveyor Ultra
+[YellowScan Surveyor Ultra](https://www.yellowscan-lidar.com/products/yellowscan-surveyor-ultra) jest to ulepszona wersja [YellowScan Surveyor](yellowscan.md#yellowscan-surveyor) skierowana do UAVów poruszających się na dłuższe dystanse i z większą prędkością. Zastosowany układ Velodyne VLP-32 cechuje się 2 razy większym zasięgiem (200m w porównaniu do 100m). Jednak dokładność jest 2 razy gorsza (10cm w porównianiu do 5cm). Pozwala również na nieco krótszy lot (1.2h w porównaniu do 1.5h) i waży 100g więcej.s

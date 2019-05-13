@@ -44,7 +44,7 @@ Lądowanie:
 Transport:
 
 - trzy torby/skrzynie,
-- wymiary wew. po spakowaniu: 1650 x 350 x 275 mm3
+- wymiary wew. po spakowaniu: 1650 x 350 x 275 mm^3^
 
 
 
