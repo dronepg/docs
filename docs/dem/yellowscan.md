@@ -54,11 +54,14 @@ Jedna z wielu firm dostarczająca produkty do skanowania laserowego. Niewątpliw
 
 #### Typowe warunki pracy
 
-  ![Typical Mission](yellowscan_typical_mission.png)
+  ![Typical Mission](yellowscan_surveyor_typical_mission.png)
 
 #### Budowa
 
 ![Budowa](budowa.png)
 
 ## YellowScan Surveyor Ultra
-[YellowScan Surveyor Ultra](https://www.yellowscan-lidar.com/products/yellowscan-surveyor-ultra) jest to ulepszona wersja [YellowScan Surveyor](yellowscan.md#yellowscan-surveyor) skierowana do UAVów poruszających się na dłuższe dystanse i z większą prędkością. Zastosowany układ Velodyne VLP-32 cechuje się 2 razy większym zasięgiem (200m w porównaniu do 100m). Jednak dokładność jest 2 razy gorsza (10cm w porównianiu do 5cm). Pozwala również na nieco krótszy lot (1.2h w porównaniu do 1.5h) i waży 100g więcej.s
+[YellowScan Surveyor Ultra](https://www.yellowscan-lidar.com/products/yellowscan-surveyor-ultra) jest to ulepszona wersja [YellowScan Surveyor](yellowscan.md#yellowscan-surveyor) skierowana do UAVów poruszających się na dłuższe dystanse i z większą prędkością. Zastosowany układ Velodyne VLP-32 cechuje się 2 razy większym zasięgiem (200m w porównaniu do 100m), 2 razy gęstrzą chmurą punktów (600k próbek/s w porównianiu do 300k próbek/s). Jednak rozrzut jest ponad 2 razy gorszy (10cm w porównianiu do 4cm). Pozwala również na nieco krótszy lot (1.2h w porównaniu do 1.5h) i waży 100g więcej. 
+
+#### Typowe warunki pracy
+![Typical MIssion](yellowscan_surveyor_ultra_typical_mission.png)
