@@ -26,6 +26,11 @@ W skład konsorcjum SAFEDAM wchodzi:
 - [mgr inż. Edmund Sieinski](http://www.imgw.pl/dzialalnosc-imgw-pib/struktura-organizacyjna/komorki-organizacyjne-2/oddzial-morski-w-gdyni/) - przedstawiciel IMGW - Centrum Państwowej Służby ds. Bezpieczeństwa Budowli Piętrzących
 - [mrg. Dagmara Zelaya Wziątek](https://www.linkedin.com/in/dagmara-zelaya-wziątek-41938a61) - SAFEDAM Project Coordinator at IMGW
 
+Nad projektem Safedam na "pełen etat" pracuje:
+ - 3 Osoby z IMGW
+ - 4 Osoby z PW
+ - 4 Osoby z Astri
+
 !!! note
     Jak widać część informatyczna nie jest dziedziną dominującą nad tym problemem, wniosek płynący z tego jest taki ze programiści są jedynie odpowiedzialni za implementacje rozwiązań, które tworzą powyższe podmioty. 
 

@@ -1,5 +1,7 @@
 # YellowScan
 Jedna z wielu firm dostarczająca produkty do skanowania laserowego. Niewątpliwą zaletą jest to, że ich produkty są gotowymi układami integrującymi: skaner laserowy, nawijację i orientację GNSS/IMU, układem scalonym przetwarzający dane, baterię i oprogramowanie.
+
+
 ## YellowScan Surveyor
 
 [YellowScan Surveyor](https://www.yellowscan-lidar.com/products/yellowscan-surveyor) to zintegrowane rozwiązane, praktycznie gotowe do użytku, przeznaczony do zastosowań UAV. Łączy w sobie skaner laserowy LiDAR, układ scalony zapewniający georeferencje zebranych punktów oraz baterię zapewniającą 1.5h czasu pracy. Urządzenie używane przez SAFEDAM.
@@ -65,3 +67,6 @@ Jedna z wielu firm dostarczająca produkty do skanowania laserowego. Niewątpliw
 
 #### Typowe warunki pracy
 ![Typical MIssion](yellowscan_surveyor_ultra_typical_mission.png)
+
+## YellowScan Mapper
+Zdecydowanie odradzany przez koordynator projektu SAFEDAM
