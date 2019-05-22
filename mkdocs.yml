@@ -20,4 +20,7 @@ nav:
     - Projekt: 'safedam/safedam.md'
     - 'safedam/neo3.md'
     - 'safedam/zawisak.md'
+  - 'Zastosowania':
+    - 'applications/forestry.md'
+    - 'applications/multispectral.md'
   - 'questions.md'
