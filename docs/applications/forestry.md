@@ -1,6 +1,18 @@
 # Leśnictwo
 Zastosowania dronów w leśnictwie
 
+- inwentaryzacja zasobów przyrodniczych
+- taksacji
+- inwenteryzacji zasobów leśnych
+- badanie sukcesji orślinnej
+- ocena zmian zachodząca w krajobrazie
+- inwenteryzacja zwierząt
+- ocenie rozmiaru szkód powodowanych przez zwierzynę w uprawach rolnych i leśnych
+- zwalczanie szkodnictwa leśnego
+- wykonywaniu pomiarów 
+- budowanie ortofomap
+- ocena rozmiarów klęsk żywiołowych
+
 ## Poprawa planowania gospodarki leśnej
 Plan gospodarki leśnej określa cele, jakie właściciel gruntu ma wobec swojej ziemi. 
 Dodatkowo, plany te zawierają również informacje o czynnikach takich jak: powierzchnia oraz granice ziemi, drzewostany, gatunki drzew, wykazy biologiczne.
