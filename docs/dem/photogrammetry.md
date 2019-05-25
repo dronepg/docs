@@ -58,3 +58,5 @@ Moim zdaniem najlepszy będzie OpenDroneMap bo:
 - MicaSense - multispectral
 - Sequoia - multispectral
 
+## Pro Tips
+[Making Successfull Maps](https://support.dronedeploy.com/docs/making-successful-maps)
