@@ -11,11 +11,6 @@ Różnice między nimi dobrze ilustruje grafika
 
 DTM modeluje jedynie powierznie ziemi, podczas gdy DSM modeluje również wszystkie obiekty na niej występujące, takie jak  roślinność i budynki. 
 
-**GCP - Ground Control Points** - Punkty kontrolne ustawiane na ziemi w celu uzyskania punktów odniesienia podczas wykonywania skanów.
-
-![GCP](gcp.jpg)
-
-
 **Algorytm filtrujący Axelsson'a** - todo
 
 

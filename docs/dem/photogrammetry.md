@@ -1,4 +1,5 @@
 # Fotogrametria 
+![photogrammetry processing](../images/photogrammetry_processing.png)
 
 Wiki: dziedzina nauki i techniki zajmująca się odtwarzaniem kształtów, rozmiarów i wzajemnego położenia obiektów w terenie na podstawie zdjęć fotogrametrycznych (fotogramów).
 
@@ -8,27 +9,41 @@ Technika która pozwala na modelowanie terenu z wykorzystaniem zdjęć, nazywa s
 Zaletą fotogrametrii jest jej niska cena, oraz wysoką dokładność w modelowaniu DSM (poniżej 10cm) nawet z wykorzystaniem kompaktowych kamer.
 Największa wadą fotogrametrii jest duża podatność na wpływ roślinności, skutkuje to dużym błędem w pionowej dokładność wynikowego modelu struktury ziemi (DTM).
 Z tego powodu fotogrametria może być dobrym wyborem przy skanowaniu wałów przeciwpowodziowych, w okresie, gdy roślinność jest niska.
+
+## Ground Control Points
+![GCP](../images/gcp.jpg)
+
+W celu poprawy dokładności fotogrametrii, można zastosować punkty kontrolne (Ground Control Points - GCP). Punkty kontrolne mogą mieć postać kwadratów o rozmiarach 0.5 x 0.5 m w teksturze szachownicy w celu łatwej lokalizacji. Rozłożenie punktów kontrolnych na skanowanym terenie pozwala na uwzględnieniu ich podczas rekonstrukcji terenu. Punkty kontrolne o znanych koordynatach stają się punktami referencyjnymi przy ustalaniu koordynatów chmury punktów. Zastosowanie punktów kontrolnych pozwala na osięgnięcie sub-decymalnej dokładności pomiarów. 
+Największą wadą, a zarazem wykluczającą ją z większości projektów jest czasochłonność rozstawiana takich punktów po całym terenie pomiarowym. Na całe szczęście istnieją alternatywy w postaci różnicowego GPSa.
+
+## Różnicowy GPS 
+![Differencial GPS](../images/RTK.jpg)
+Różnicowy GPS (ang. Differential Global Positioning System) pozwala na znaczącą poprawę dokładności systemu GPS z rzędu 15m do 1-3cm. Jest to możliwe poprzez wykorzystanie referencyjnej stacji bazowej, czyli stałego odbiornika naziemnego, ustawionego w dokładnie wyznaczonym miejscu (za pomocą pomiarów geodezyjnych). Stacja bazowa wyznacza na bieżąco poprawki różnicowe dla poszczególnych satelitów, co pozwala na wyeliminowanie większości błędów. Odbiornik ruchomy (zamontowany na dronie) musi mieć możliwość odbioru tych poprawek przez łącze bezprzewodowe. 
+Istnieją dwa warianty korekcyjnego GPSa:
+
+1. Real Time Kinematic (RTK) - korekcja pomiarów lokalizacji w czasie rzeczywistym, podczas lotu
+2. Post Processing Kinematic (PPK) - korekcja pomiarów lokalizacji w post produkcji, czyli już po zebraniu danych, po zakończeniu misji.
+
+## Ground Control Points vs RTK vs PPK
+![PPK](../images/PPK.png)
+Zarówno Ground Control Points jak i technika korekcyjnego GPS pozwala na osiągnięcie sub-decymalnych dokładności, jednak różnicowy GPS nie wymaga czasochłonnej pracy związanej z przygotowaniem terenu.
+Jeśli chodzi o wybór RTK a PPK, PPK okazuje się bardziej niezadowny.
+RTK przejmuje wady każdego systemu czasu rzeczywistego, np. synchornizacji czasu, integracji odbiorników.
+Dodatkowo PPK jest bardziej odporny na zaniki sygnału. Jest w stanie "łatać luki sygnału" znając poprzednie i następne pomiary.
+
 ## Software
 
+Porównanie oprogramowań używanych w fotogrametrii dla map [wiki](https://en.wikipedia.org/wiki/Comparison_of_photogrammetry_software)
 
-1. [PhotoScan Metashape (AGISOFT) - photogrammetry](https://www.agisoft.com/) - Software do procesowania zdjęć RGB na chmurę punktów i  modele poligonów teksturowanych, oraz orotomozaike (zdjęcia pozbawione perspektywy), do tego generuje modele [DEM](https://pl.wikipedia.org/wiki/Numeryczny_model_terenu) (DSM i DTM). Koszt licencji oporogramowania to $179 w wersji Standard lub $3499 w wersji Professional.
-2. [Pix4D mapper (Pix4D)](https://www.pix4d.com/product/pix4dmapper-photogrammetry-software) - photogrammetry - The leading photogrammetry software for professional drone mapping
-3. [TerraPhoto (TERRASOLID)](http://www.terrasolid.com/home.php)- photogrammetry - Software for Processing Point Clouds and Images
-4. [POSPac (APPLANIX)](https://www.applanix.com/products/pospac-mms.htm) - trajectory - Postprocessing software for direct georeferencing on UAVs
-5. [RiPrecision RIEGL](http://www.riegl.com/products/software-packages/riprecision-uav/) trajectory - RiPRECISION UAV automatically performs adjustments of GNSS/INS trajectories to merge overlapping UAV-based RIEGL scan data
-6. [NovAtel CORRECT (NovAtel)](https://www.novatel.com/solutions/novatel-correct-positioning/) - trajectory
-7. [CloudCompare](https://www.danielgm.net/cc/) OpenSource - visualization 3D point cloud and mesh processing software
-8. [TerraScan (TERRASOLID)](http://www.terrasolid.com/products/terrascanpage.php) - pointcloud - LiDAR Data Processing and 3D Vector Data Creation
-9. [LAStools (RAPIDLASSO)](https://rapidlasso.com/LAStools/) - pointcloud
-10. [LP360 (GEOCUE)](https://geocue.com/products/lp-360/) - pointcloud
-11. [Global Mapper LiDAR (BLUE MARBLE GEOGRAPHICS)](https://www.bluemarblegeo.com/products/global-mapper-lidar.php) - pointcloud
-12. [RealWorks (TRIMBLE)](https://geospatial.trimble.com/products-and-solutions/trimble-realworks) - pointcloud
-13. [RiProcess (RIEGL)]([http://www.riegl.com/products/software-packages/riprocess/](http://www.riegl.com/products/software-packages/riprocess/)) - pointcloud
-14. [arcGIS (ESRI)](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - GIS and CAD
-15. [QGis](https://www.qgis.org/en/site/) OpenSource - GIS and CAD
-16. [MapInfo (Pitney Bowes Software)](https://www.pitneybowes.com/us/location-intelligence/geographic-information-systems/mapinfo-pro.html) - GIS and CAD
-17. [AutoCAD (Autodesk)](https://www.autodesk.pl/products/autocad/included-toolsets/autocad-map-3d) - GIS and CAD
-18. [MicroStation (BENTLEY SYSTEMS)](https://www.bentley.com/pl/products/brands/microstation) - GIS and CAD
+Moim zdaniem najlepszy będzie OpenDroneMap bo:
+
+- jest OpenSource - mamy błogosławieństwo Stallmana
+- i tutaj można by zakończyć.
+- jest stworzony przez programistów dla programistów
+- jest darmowy
+- posiada web appke - corss platformowy, można odpalać na komuterach klientów
+- jest całkiem świeży (2013)
+- cały czas rozwijany
 
 ## Hardware
 
