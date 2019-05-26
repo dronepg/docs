@@ -10,6 +10,8 @@ Zaletą fotogrametrii jest jej niska cena, oraz wysoką dokładność w modelowa
 Największa wadą fotogrametrii jest duża podatność na wpływ roślinności, skutkuje to dużym błędem w pionowej dokładność wynikowego modelu struktury ziemi (DTM).
 Z tego powodu fotogrametria może być dobrym wyborem przy skanowaniu wałów przeciwpowodziowych, w okresie, gdy roślinność jest niska.
 
+[Fotogrametria DIY kamerą w twoim smartfonie](https://youtu.be/ye-C-OOFsX8)
+
 ## Ground Control Points
 ![GCP](../images/gcp.jpg)
 
