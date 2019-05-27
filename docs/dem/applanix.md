@@ -19,7 +19,7 @@ Pozwala zmierzyć orientacje i pozycję sensora zbierającego obraz. Następnie 
 ### Z czego się składa taki system
 
 1. High performance, multi-frequency and multi-constellation odbiornik nawigacji satelitarnej
-2. Inerial Measurement Unit (IMU) na który składa się żyorskop i przyśpieszeniometr.
+2. Inerial Measurement Unit (IMU) na który składa się żyorskop i akcelerometr.
 3. Wysokowydajnościowa, o niskim szumie antena nawigacji satelitarnej.
 4. Oprogramowanie czasu rzeczywistego, do przetwarzania i łączenia wszystkich danych w całość.
 5. System augmentacji do poprawiania błędów to poziomu centymetrów 
