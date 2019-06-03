@@ -11,6 +11,7 @@ Największa wadą fotogrametrii jest duża podatność na wpływ roślinności, 
 Z tego powodu fotogrametria może być dobrym wyborem przy skanowaniu wałów przeciwpowodziowych, w okresie, gdy roślinność jest niska.
 
 [Fotogrametria DIY kamerą w twoim smartfonie](https://youtu.be/ye-C-OOFsX8)
+[Meshroom](https://alicevision.github.io/#meshroom)
 
 ## Ground Control Points
 ![GCP](../images/gcp.jpg)
