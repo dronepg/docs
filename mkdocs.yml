@@ -1,6 +1,10 @@
 site_name: DronePG
 theme: readthedocs
 repo_url: https://github.com/dronepg/docs/
+plugins:
+  - search
+  - pdf-export:
+      combined: true
 markdown_extensions:
   - admonition
   - toc:
