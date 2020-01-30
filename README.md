@@ -1,6 +1,9 @@
-# Documentation 
+# Documentation
 
-Documents are located in /docs folder. 
+<img align="right" width="159px" src="docs/images/zdrone_small.jpg">
 
-# How to start 
+Documents are located in /docs folder.
+
+## How to start
+
 `mkdocs serve` in project root folder.
