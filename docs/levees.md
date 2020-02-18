@@ -20,6 +20,18 @@ Ze względów na swoją genezę, uszkodzenia wałów dzielą się na sześć gł
 
 6. rozmycie wału
 
+## Skutki uszkodzen
+
+Przelanie - kiedy poziom wody w rzece przewyzsza stan krytyczny, woda porzelewa
+się górą przez wał niszcząc nasyp i podtapiając okoliczne tereny.
+
+Przesiąkanie - Przesiąkanie ułatwia nieprawidłowa budowa (w tym materiał) i
+konserwacja wału, a także zwierzęta kopiące w nim nory.
+
+Przedsiąkanie - Woda podsiąka pod wałem, gdy jest on zbudowany na łatwo
+przepszczalnym podłożu (piasek lub żwir).
+
+Animacje: https://www.youtube.com/watch?v=8GhNYajDnQc
 
 
 ## Roślinność
