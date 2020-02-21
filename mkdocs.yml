@@ -3,32 +3,30 @@ theme: readthedocs
 repo_url: https://github.com/dronepg/docs/
 plugins:
   - search
-  - pdf-export:
-      combined: true
 markdown_extensions:
   - admonition
   - toc:
-        permalink: "#"
-        baselevel: 2
+      permalink: "#"
+      baselevel: 2
 nav:
-  - 'Wały przeciwpowodziowe':
-    - 'levees.md'
-    - 'levees/regulations_and_requirements.md'
-  - 'Skanowanie i modelowanie':
-    - 'dem/nmt.md'
-    - 'dem/lidar.md'
-    - 'dem/photogrammetry.md'
-    - 'dem/comparasion.md'
-    - 'dem/yellowscan.md'
-    - 'dem/applanix.md'      
-    - 'dem/riegl.md'
-  - 'Analiza danych':
-    - 'analysis/index.md'
-  - 'SAFEDAM':
-    - Projekt: 'safedam/safedam.md'
-    - 'safedam/neo3.md'
-    - 'safedam/zawisak.md'
-  - 'Zastosowania':
-    - 'applications/forestry.md'
-    - 'applications/multispectral.md'
-  - 'questions.md'
+  - "Wały przeciwpowodziowe":
+      - "levees.md"
+      - "levees/regulations_and_requirements.md"
+  - "Skanowanie i modelowanie":
+      - "dem/nmt.md"
+      - "dem/lidar.md"
+      - "dem/photogrammetry.md"
+      - "dem/comparasion.md"
+      - "dem/yellowscan.md"
+      - "dem/applanix.md"
+      - "dem/riegl.md"
+  - "Analiza danych":
+      - "analysis/index.md"
+  - "SAFEDAM":
+      - Projekt: "safedam/safedam.md"
+      - "safedam/neo3.md"
+      - "safedam/zawisak.md"
+  - "Zastosowania":
+      - "applications/forestry.md"
+      - "applications/multispectral.md"
+  - "questions.md"
