@@ -11,8 +11,10 @@ markdown_extensions:
         permalink: "#"
         baselevel: 2
 nav:
-  - 'levees.md'
-  - 'Teoria':
+  - 'Wały przeciwpowodziowe':
+    - 'levees.md'
+    - 'levees/regulations_and_requirements.md'
+  - 'Skanowanie i modelowanie':
     - 'dem/nmt.md'
     - 'dem/lidar.md'
     - 'dem/photogrammetry.md'
@@ -20,7 +22,9 @@ nav:
     - 'dem/yellowscan.md'
     - 'dem/applanix.md'      
     - 'dem/riegl.md'
-  - SAFEDAM:
+  - 'Analiza danych':
+    - 'analysis/index.md'
+  - 'SAFEDAM':
     - Projekt: 'safedam/safedam.md'
     - 'safedam/neo3.md'
     - 'safedam/zawisak.md'

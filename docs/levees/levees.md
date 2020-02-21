@@ -3,7 +3,6 @@
 ![struktura](levee.jpg)
 
 
-
 ## Uszkodzenia
 
 Ze względów na swoją genezę, uszkodzenia wałów dzielą się na sześć głównych grup
