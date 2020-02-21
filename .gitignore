@@ -2,3 +2,4 @@
 _build/
 site/
 venv
+.swp
