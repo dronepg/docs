@@ -10,7 +10,7 @@ markdown_extensions:
       baselevel: 2
 nav:
   - "Wały przeciwpowodziowe":
-      - "levees/levee.md"
+      - "levees/levees.md"
       - "levees/regulations_and_requirements.md"
   - "Skanowanie i modelowanie":
       - "dem/nmt.md"

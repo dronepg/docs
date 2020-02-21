@@ -27,16 +27,17 @@ W skład konsorcjum SAFEDAM wchodzi:
 - [mrg. Dagmara Zelaya Wziątek](https://www.linkedin.com/in/dagmara-zelaya-wziątek-41938a61) - SAFEDAM Project Coordinator at IMGW
 
 Nad projektem Safedam na "pełen etat" pracuje:
- - 3 Osoby z IMGW
- - 4 Osoby z PW
- - 4 Osoby z Astri
+
+- 3 Osoby z IMGW
+- 4 Osoby z PW
+- 4 Osoby z Astri
 
 !!! note
     Jak widać część informatyczna nie jest dziedziną dominującą nad tym problemem, wniosek płynący z tego jest taki ze programiści są jedynie odpowiedzialni za implementacje rozwiązań, które tworzą powyższe podmioty. 
 
-Wczesne wykrycie [uszkodzeń](../levees.md#uszkodzenia) [wałów przeciwpowodziowych](../levees.md), a szczególnie zmiany geometrii wałów, a tym samym identyfikacja potencjalnych uszkodzeń, daje możliwość szybkiej reakcji w postaci zabezpieczenia lub modernizacji zagrożonego odcinka. Ponadto znajomość precyzyjnych danych wysokościowych, z dokładnością poniżej decymetra, usprawnia zarządzanie akcją ratowniczą, a przede wszystkim pozwala na oszacowanie zagrożenia związanego z przelaniem się wody przez korpus wału (poprzez oszacowanie różnicy wysokości zwierciadła wody do korony wału). Wykrywanie potencjalnych uszkodzeń wału może odbywać się na pojedynczej serii danych pomiarowych (wówczas analizie podlegają wykryte anomalie terenu rozumiane jako zaburzenia struktury wałów) lub na podstawie detekcji zmian terenu w czasie.
+Wczesne wykrycie [uszkodzeń](../levees/levees.md#uszkodzenia) [wałów przeciwpowodziowych](../levees/levees.md), a szczególnie zmiany geometrii wałów, a tym samym identyfikacja potencjalnych uszkodzeń, daje możliwość szybkiej reakcji w postaci zabezpieczenia lub modernizacji zagrożonego odcinka. Ponadto znajomość precyzyjnych danych wysokościowych, z dokładnością poniżej decymetra, usprawnia zarządzanie akcją ratowniczą, a przede wszystkim pozwala na oszacowanie zagrożenia związanego z przelaniem się wody przez korpus wału (poprzez oszacowanie różnicy wysokości zwierciadła wody do korony wału). Wykrywanie potencjalnych uszkodzeń wału może odbywać się na pojedynczej serii danych pomiarowych (wówczas analizie podlegają wykryte anomalie terenu rozumiane jako zaburzenia struktury wałów) lub na podstawie detekcji zmian terenu w czasie.
 
-Dodatkowo SAFEDAM zaadresował problem [roślinności](../levees.md#roslinnosc) która porasta wały przeciwpowodziowe. 
+Dodatkowo SAFEDAM zaadresował problem [roślinności](../levees/levees.md#roslinnosc) która porasta wały przeciwpowodziowe. 
 
 System SAFEDAM zaproponował 2 tryby działania swojego systemu
 
