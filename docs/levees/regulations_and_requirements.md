@@ -76,10 +76,104 @@ Dopuszczalne odchylenia nachyleń skarp i spadków korony oraz ławek powinny
 odpowiadać wymaganiom dotyczącym wymiarów liniowych, nie powinny jednak
 przekraczać 10% projektowanego nachylenia.
 
-Dalej opisuje na czym można a na czym nie można stawiać wałów.
+Dalej opisuje na czym można a na czym nie można stawiać wałów, wolgotnośc gleby itp.
 
+## Stan Wykonywania Okresowych Kontroli Stanu Technicznego Obwałowań
 
+Zgodnie z ustawą "Prawo Budowlane" obiekty budowlane powinny być w czasie
+użytkowania poddawane przez właściciela lub zarządcę:
 
+- okresowej kontroli, co najmniej raz w roku, polegającej na sprawdzeniu stanu
+  technicznego
+- okresowej kontroli, co najmniej raz na 5 lat jw. + przydatności do użytkowania
+  obiektu budowlanego.
 
+Okresowe kontrole stanu technicznego można podzielić na:
 
+- kontrole okresowe, które należy wykonywać co najmniej raz, ale najlepiej dwa
+  razy w roku (przegląd wiosenny i jesienny);
+- kontrole doraźne (awaryjne, interwencyjne), które powinno się wykonywać:
+  - w okresie przepływu wielkich wód, przekraczających stan alarmowy, na których
+    stwierdzono występowanie zagrożeń lub uszkodzeń wału (wzmożona filtracja,
+    uszkodzenie lub odkształcenie korpusu wału).
+  - w przypadku stwierdzenia uszkodzeń korpusu wału.
+
+Kontrole te wykonywane są na ogół siłami własnymi pracowników WZMiUW.
+
+Znacznie gorsza sytuacja panuje w zakresie wykonywania kontroli tych co 5 lat. 
+W latach 2001-2005 wykonano je jedynie na 9.8% wałów. Powodem jest brak środków
+finansowych.
+
+Kolejnym problemem jest jakość wykonywanych kontroli. Znaczna ich część zawiera
+jedynie wyniki rozpoznania geologicznego. Często natomiast nie zawierają
+obliczeń stateczności, filtracji, nie ustosonkowują się do stanu budowli
+wałóowych, stanu międzywala, nie odnoszą się do wymiarów korpusu, bezpiecznego
+wzniesienia korony obwałowania, ustalenie klasy ważności budowli w świetle
+najnowszych, obowiązujących w tym zakresie przepisów. 
+
+Stan techniczny i bezpieczeństwo wałów są oceniane subiektywnie przez osobę
+oceniającą, często wręcz błędnie. Dlatego stara się ustandaryzować te procedury
+w skali kraju. Opracowano instrukcję zawierającą kryteria i skalę oceny stanu
+technicznego i bezpieczństwa obwałowań przeciwpowodziowego. Kategorie:
+
+0 - brak oceny ze względu na brak danych,
+1 - stan zagrożenia bezpieczństwa,
+2 - stan mogący zagrażać bezpieczeństwu,
+3 - stan techniczny dobry, niezagrażający bezpieczeństwu.
+
+Podjęcie decyzji o przyporządkowaniu wału do jednej z podanych kategorii powinno
+wynikać z oceny stanu zasadniczych elementów obwałowania przepiwpowodziowego,
+takich jak:
+- korpus wału;
+- podłoże bezpośrednio pod wałem oraz w terenie przyległym do wału w odległości
+  do 50m od stopy wału zarówno od strony odwodnej, jak też odpowietrznej, w tym
+  szczególnie na obszarze, na którym w okresie powodzi zachodzą zajwiska
+  filtracyjne.
+- budowle towarzyszące obwałowaniu, takie jak: pompownie, przepusty, śluzy,
+  drenaże, urządzenia odwadniające, odprowadzalniki wód drenażowych, rowy
+  przywałowe, przejazdy wałowe, drogi powodziowe i dojazdowe do obwałowań,
+  urządzenia kontrolno-pomiarowe oraz inne elementy związane z linią ochronną
+  utworzoną przez obwałowanie;
+- międzywale, zawale oraz obszar chroniony.
+
+Czynniki mogące mieć wpływ na ocenę stanu bezpieczeństwa poszczególnych
+elementów obwałowania:
+
+- Korpus wału:
+  - wymiary geometryczne niespełniające wymogów, w tym:
+    - bezpoeczne wzniesienie korony,
+    - szerokość korony,
+    - nachylenie skarp;
+  - niedostateczne zagęszczenie gruntu w trakcie piętrzenia wody, w tym:
+    - przecieki,
+    - sufozja;
+  - uszkodzenia korpusu, w tym:
+    - zniszczenia korony i skarp przez przejeżdzający sprzęt,
+    - lokalne osuwiska skarp,
+    - stan ubezpieczeń skarp,
+    - dziko rosnąca roślinność krzewiasta i drzewiasta w obrębie samego korpusu,
+      jak też w terenie bezpośrednioprzyległym do wału,
+    - siedliska zwierząt drążących nory, szczególnie bobrów i lisów,
+    - stan korpusu w miejscach przejścia przez korpus rurociągów (wodociągowych,
+      kanalizacyjnych, gazowych i innych) i kabli, szczególnie w przypadkach ich
+      ułożenia w korpusie wzdłuż trasy wału,
+      występowanie w korpusie wału piwnic, bunkrów i innych budowli tego typu;
+  - zagrożenie stateczniści;
+  - nadmierne osiadanie.
+
+- Podłoże:
+  - zjawiska filtracyjne, w tym: przecieki, sufozja, przebicia;
+  - zapadliska.
+- Budowle towarzyszące:
+  - uszkodzenie budowli, brak sprawności technicznej;
+  - brak lub zły stan dróg powodziowych i dojazdowych do obwałowania.
+- Międzywale, zawale i obszar chroniony:
+  - lokalne zwiężenie międzywala, mogące wpływać na utrudnienie przepływu wód.
+  - roślinność występująca w międzywalu, mogąca wpływać na poziom i kierunek
+    przepływu wielkich wód;
+  - przecięcie trasy obwałowania ze starorzeczami, stan starorzeczy;
+  - obecność wyrobisk eksploatacji kruszywa, lokalnych zagłębień terenowych,
+    stawów rybnych, oczek wodnych w ogległości mniejszej niż 50m od obwałowania;
+  - położenie bezpośrednio przy trasie obwałowania budynków;
+  - położenie obwałowania na terenie zagrożonym szkodami górniczymi.
 
