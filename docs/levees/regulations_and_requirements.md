@@ -23,6 +23,14 @@ w zależności od obszaru ochronnego danym obwałowaniem.
 
 ![classification](classification.png)
 
+Dla polski:
+- Klasa I - 513km ok. 6% łącznej długości wałów
+- Klasa II - 2600 ok. 31% łącznej długości wałów
+- Klasa III - 2000 ok. 24% łącznej długości wałów
+- Klasa IV - 3000 ok. 36% łącznej długości wałów
+Zdecydowana większość obwałowań (łącznie 91% ich długości) należy więc do klas
+budowli hydrotechnicznych od II do IV.
+
 Przekrój stateczny wału powinien zostać tak zaprojektowany, aby wał był
 stateczny (aby się nie odkształcał) oraz aby krzywa depresji (co to znaczy ?
 Chyba to dokąd nasącza się woda w wale) w korpusie obwałowania w granicznym
@@ -177,3 +185,30 @@ elementów obwałowania:
   - położenie bezpośrednio przy trasie obwałowania budynków;
   - położenie obwałowania na terenie zagrożonym szkodami górniczymi.
 
+Bardzo częstą przyczyną powstawania uszkodzeń obwałowań jest zbyt niski poziom
+korony wałów. W wyniku przelania się wody przez kornoę następuje rozmycie skarpy
+i w efekcie zniszczenie całego korpusu.
+Istniejące wały najczęściej nie
+spełniają aktualnych wymagań dotyczących ich wysokości, gdyż:
+
+- były budowane w czasie, gdy obowiązywały inne przepisy, lub inne były poglądy
+  na temat wymagań w zakresie stopnia zabezpieczenia;
+- zwiększyły się przepływy miarodajne i kontrolne;
+- podniósł się stan wody w warunkach niezmienionego natężenia przepływu;
+- nastąpiło podwyższenie klasy obwałowańm co wymaga zmiany ich wysokości;
+- nastąpiło lokalne nadmierne osiadanie wału, spowodowane występowaniem słabych
+  gruntów w podłożu.
+
+Na stan wału i na wynikające z niego zagorżenia stateczności może też istotne
+wpłynąć działanie zwierząt (bobry i lisy), zwłaszcza gdy grążą bardzo obszerne
+jamy i korytarze, czasami na całej szerokości korpusu wału. Bardzo istotną rolą
+
+## Co możemy wykrywać
+
+- czy geometria wału nie odbiega od wymagań Prawa Budowlanego:
+  - Czy korona wału ma 3 lub 4.5m
+  - Czy nachylenie wału ma 1:n stopni.
+  - Czy błąd jest większy niż 10%
+- czy na korpusie nie rośnie jakaś roslinność
+- czy jakaś roślinność nie rośnie 3m od wału (obie strony). Drzewa ułatwiają
+  filtracje.
